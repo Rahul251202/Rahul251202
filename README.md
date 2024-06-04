@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Jha</h1>
-<h3 align="center">Software Engineer <-> Android Developer</h3>
+<h3 align="center">"Seeking Internship Opportunities: Android Development | Kotlin |Xml | c++ |Data Structures & Algorithms | DBMS”</h3>
 <img align="right" allt="coding" width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on **Android Development Projects**
